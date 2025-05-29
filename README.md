@@ -26,7 +26,7 @@
 6. Data collection from the chat
 
 ## 📸 Example: (Photo)
-![img](https://github.com/user-attachments/assets/f2e936e1-542a-424a-a194-778dd403f1ab)
+![448601291-c3692c3e-3a89-4fc2-b8c9-52a00481e480](https://github.com/user-attachments/assets/7e150050-884e-4b57-b4b3-a64a9d04b289)
 
 <details><summary>🧩 <strong>Method 0: With <code>console</code></strong></summary>
 
