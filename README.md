@@ -1,6 +1,21 @@
-# TelegramUserStats
 
-**TelegramUserStats** is a Python script based on [Telethon](https://github.com/LonamiWebs/Telethon) that logs into your Telegram account (as a userbot), parses a chat, and sends chat statistics directly to your Telegram.
+
+
+<h1 align="center">TelegramUserStats</h1>
+<p align="center"><b>TelegramUserStats</b> is a Python script based on <a href="https://github.com/LonamiWebs/Telethon">Telethon</a> that logs into your Telegram account (as a userbot), parses a chat, and sends chat statistics directly to your Telegram.</p>
+
+
+<p align="center">
+    <a href="">
+    <img alt="Telethon" src="https://img.shields.io/badge/library-telethon%201.40.0-blue" />
+  </a>
+  <a href="">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/library-matplotlib%203.10.3-blue" />
+  </a>
+  <a href="">
+    <img alt="Python" src="https://img.shields.io/badge/python-3.11-blue" />
+  </a>
+</p>
 
 ## 🚀 Features
 
